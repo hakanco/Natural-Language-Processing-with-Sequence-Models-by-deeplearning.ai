@@ -1,2 +1,3 @@
-# Natural-Language-Processing-with-Sequence-Models-by-deeplearning.ai
-NLP Course
+# NLP Course
+Third course in the Natural Language Processing Specialization by deeplearning.ai
+
