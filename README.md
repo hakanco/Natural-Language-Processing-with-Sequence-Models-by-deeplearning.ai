@@ -1,18 +1,38 @@
 # NLP Course
 Third course in the Natural Language Processing Specialization by deeplearning.ai
 
-Week 1: Sentiment with Neural Nets
+## Week 1: Neural Networks for Sentiment Analysis
 
-Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets
+Learned about neural networks for deep learning, then build a sophisticated tweet classifier that places tweets into positive or negative sentiment categories, using a deep neural network.
 
-Week 2: Language Generation Models
+### Key Concepts
 
-Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model
+Feature extraction, Supervised machine learning, Binary classification, Text preprocessing, ReLU, Python classes, Trax, Neural networks
 
-Week 3: Named Entity Recognition (NER)
+## Week 2: Recurrent Neural Networks for Language Modeling
 
-Train a recurrent neural network to perform NER using LSTMs with linear layers
+Learned about the limitations of traditional language models and see how RNNs and GRUs use sequential data for text prediction. Then built my own next-word generator using a simple RNN on Shakespeare text data!
 
-Week 4: Siamese Networks
+### Key Concepts
 
-Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning
+N-grams, Gated recurrent units, Recurrent neural networks
+
+## Week 3: LSTMs and Named Entity Recognition
+
+Learned about how long short-term memory units (LSTMs) solve the vanishing gradient problem, and how Named Entity Recognition systems quickly extract important information from text. Then built my own Named Entity Recognition system using an LSTM and data from Kaggle!
+
+### Key Concepts
+
+Vanishing gradients, Named entity recognition, LSTMs, Feature extraction, Part-of-speech tagging, Data generators
+
+## Week 4: Siamese Networks
+
+Learned about Siamese networks, a special type of neural network made of two identical networks that are eventually merged together, then built my own Siamese network that identifies question duplicates in a dataset from Quora.
+
+### Key Concepts
+
+One shot learning
+, Triplet loss
+, Cosine similarity
+, Siamese networks
+, Data generators
